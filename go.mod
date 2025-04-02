@@ -1,3 +1,3 @@
-module github.com/bosshie96/go-hello
+module github.com/bosshie96/sayhello
 
 go 1.23.0
